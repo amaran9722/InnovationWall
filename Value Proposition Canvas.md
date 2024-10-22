@@ -53,6 +53,52 @@ Customer jobs often depend on the specific context in which they are performed. 
 It is important to acknowledge that not all jobs have the same importance to your customer. Some matter more in a customer’s work or life because failing to get them done could have serious ramifications. Some are insignificant because the customer cares about other things more. Sometimes a customer will deem a job crucial because it occurs frequently or because it will result in a desired or unwanted outcome.
 
 ---
+#### Customer Pains
+
+Pains describe anything that annoys your customers before, during, and after trying to get a job done or simply prevents them from getting the job done. Pains also describe risks, that is, potential bad outcomes related to getting a job done badly or not at all.
+
+Seek to identify three types of customer pains and how severe customers find them:
+
+- **Undesired Outcomes, Problems, and Characteristics**
+
+Pains can be:
+- **Functional**: A solution doesn’t work, doesn’t work well, or has negative side effects.
+- **Social**: "I look bad doing this."
+- **Emotional**: "I feel bad every time I do this."
+- **Ancillary**: "It’s annoying to go to the store for this."
+
+These pains may also involve undesired characteristics that customers don’t like (e.g., "Running at the gym is boring" or "This design is ugly").
+
+- **Obstacles**
+
+These are things that prevent customers from even getting started with a job or that slow them down (e.g., "I lack the time to get this job done accurately" or "I can’t afford any of the existing solutions").
+
+- **Risks(Undesired Potential Outcomes)**
+
+These are potential negative outcomes that could happen and have important negative consequences (e.g., "I might lose credibility when using this type of solution" or "A security breach would be disastrous for us").
+
+- **Pain Severity**
+
+A customer pain can be extreme or moderate, similar to how jobs can be important or insignificant to the customer.
+
+- **Tip: Make Pains Concrete**  
+To clearly differentiate jobs, pains, and gains, describe them as concretely as possible. For example, when a customer says "waiting in line was a waste of time," ask after how many minutes exactly it began to feel like wasted time. That way, you can note "wasting more than x minutes standing in line." When you understand how exactly customers measure pain severity, you can design better pain relievers in your value proposition.
+
+- **Trigger Questions for Identifying Customer Pains**
+
+The following list of trigger questions can help you think of different potential customer pains:
+
+- How do your customers define "too costly"? Does it take a lot of time, cost too much money, or require substantial efforts?
+- What makes your customers feel bad? What are their frustrations, annoyances, or things that give them a headache?
+- How are current value propositions underperforming for your customers? Which features are they missing? Are there performance issues that annoy them or malfunctions they cite?
+- What are the main difficulties and challenges your customers encounter? Do they understand how things work, have difficulties getting certain things done, or resist particular jobs for specific reasons?
+- What negative social consequences do your customers encounter or fear? Are they afraid of a loss of face, power, trust, or status?
+- What risks do your customers fear? Are they afraid of financial, social, or technical risks? Are they asking themselves what could go wrong?
+- What’s keeping your customers awake at night? What are their big issues, concerns, and worries?
+- What common mistakes do your customers make? Are they using a solution the wrong way?
+- What barriers are keeping your customers from adopting a value proposition? Are there upfront investment costs, a steep learning curve, or other obstacles preventing adoption?
+
+---
 
 ### Customer Gains
 
