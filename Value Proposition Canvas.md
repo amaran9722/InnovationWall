@@ -176,3 +176,45 @@ Map the profile of one of your currently existing customer segments to practice 
 
 5. **Prioritize jobs, pains, and gains**  
    Order jobs, pains, and gains in a column each with the most important jobs, most extreme pains, and essential gains on top and the moderate pains and nice-to-have gains at the bottom.
+
+   ---
+   ## Best Practices for Mapping Jobs, Pains, and Gains
+
+Avoid frequently committed mistakes when profiling a customer, and instead follow these best practices.
+
+### Common Mistakes
+
+- **Mixing several customer segments into one profile**  
+  Ensure each customer segment has its own Value Proposition Canvas. For example, if you sell to companies, you should differentiate between types of customers within each company (e.g., users, buyers).
+
+- **Mixing jobs and outcomes**  
+  Clearly distinguish between what customers are trying to get done (jobs) and the outcomes they are seeking (gains).
+
+- **Focusing on functional jobs only and forgetting social and emotional jobs**  
+  Social or emotional jobs may be more important than visible functional jobs. For instance, "looking good in front of others" might be more important than finding a great technical solution.
+
+- **Listing jobs, pains, and gains with your value proposition in mind**  
+  When you map your customer, you should approach it like an anthropologist and "forget" what you are offering. For example, if you are a business publisher, don't just map jobs, pains, and gains related to books—go beyond that to understand other options they may consider, like consultants, YouTube videos, or even completing an MBA.
+
+- **Identifying few jobs, pains, and gains**  
+  A good customer profile is full of sticky notes because customers often have numerous pains and expect or desire a lot of gains. Map all your customers' important jobs, extreme pains, and essential gains.
+
+- **Being too vague in descriptions of pains and gains**  
+  Make pains and gains tangible and concrete. For instance, instead of saying "salary increase," specify the amount of increase a customer seeks. Instead of writing "takes too long," indicate exactly how long "too long" is.
+
+### Pains vs. Gains
+
+When you start mapping the customer profile, you might simply list the same ideas in pains and gains as opposites of each other. For example, if one of the customers' jobs is to "earn more money," you might add "salary increase" to gains and "salary decrease" to pains.
+
+**Here's a better way to do it:**
+
+- Find out how much more money the customer expects to earn so it feels like a gain, and investigate what decrease would feel like a pain.
+- In the pains, add the barriers that prevent or make it difficult to get a job done. For example, "my employer doesn't give raises."
+- In the pains, add the risks related to not getting the job done. For example, "might not be able to afford my child's future college tuition."
+
+### Ask "Why" Several Times
+
+When profiling your customer, don't settle for a superficial understanding of their jobs. Keep asking "why" to understand the real motivations behind a customer job.
+
+For example, why might a customer want to learn a foreign language? Maybe because the real job is to improve their CV. Why do they want to improve their CV? Perhaps because they want to earn more money. Keep digging until you identify the underlying jobs that drive your customers.
+
